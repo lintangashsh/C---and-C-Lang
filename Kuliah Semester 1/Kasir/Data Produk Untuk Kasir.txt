@@ -1,0 +1,25 @@
+Daftar Produk Havivya/2023:
+
+01 Brownies:
+Bownies Cokelat Ekspresso = Rp 75.000/loyang [Best Seller]
+Brownies Sekat = Rp 120.000/loyang
+Brownies Cokelat Cream Cheese = Rp 120.000/loyang
+Brownies Milk Beng Beng = Rp 70.000/loyang [Best Seller]
+Brownies Oreo Choco Ball = Rp 75.000/loyang
+Fruity Brownies = Rp 65.000/loyang
+
+02 Cookies:
+Bangkit Keju = Rp 65.000/0.5 kg [Best Seller]
+Bangkit Mentega = Rp 65.000/0.5 kg
+Cappucino Tart = Rp 75.000/0.5 kg
+Choco Chip Almond = Rp 70.000/0.5 kg
+Skippy Choco Ball = Rp 70.000/0.5 kg
+Nastar Cup = Rp 70.000/0.5 kg
+Nastar Premium = Rp 80.000/0.5 kg [Best Seller]
+Chui Kous So = Rp 65.000/0.5 kg
+
+03 Pie:
+Pie Susu = Rp 4.000/pcs
+Pie Buah = Rp 5.000/pcs [Best Seller]
+Pie Susu = Rp 35.000/1 kotak (isi 10 pcs)
+Pie Buah = Rp 45.000/1 kotak (isi 10 pcs)
